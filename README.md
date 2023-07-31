@@ -20,6 +20,27 @@ Power Bi training for PL 300 EXAM
         1.3.6. Merge and append queries
         1.3.7. Identify and create appropriate keys for relationships
         1.3.8. Configure data loading for queries
+# Domain 2: Model the data (25–30%)
+# 2.1. Design and implement a data model
+         2.1.1. Configure table and column properties
+         2.1.2. Implement role-playing dimensions
+         2.1.3. Define a relationship's cardinality and cross-filter direction
+         2.1.4. Create a common date table
+         2.1.5. Implement row-level security roles
+# 2.2. Create model calculations by using DAX
+      2.2.1. Create single aggregation measures
+      2.2.2. Use CALCULATE to manipulate filters
+      2.2.3. Implement time intelligence measures
+      2.2.4. Identify implicit measures and replace with explicit measures
+      2.2.5. Use basic statistical functions
+      2.2.6. Create semi-additive measures
+      2.2.7. Create a measure by using quick measures
+      2.2.8. Create calculated tables
+# 2.3. Optimize model performance
+     2.3.1. Improve performance by identifying and removing unnecessary rows and columns
+    2.3.2. Identify poorly performing measures, relationships, and visuals by using Performance Analyzer
+    2.3.4. Improve performance by choosing optimal data types
+    2.3.5. Improve performance by summarizing data
 # Link of YouTube Videos:
 # Module 1: Prepare the Data
 Day-1: Get Ready For Your MS Power BI Exam With This Free Training Course! #Day-1 https://youtu.be/SQ7aWdzcxSU
@@ -39,8 +60,9 @@ Day-7: Get Ready For Your MS Power BI Exam |Data Source Setting| Data Statistics
 Day-8: Get Ready For Your MS Power BI Exam |Reference & Duplicate queries| Keys| Power query editor #Day-8 https://youtu.be/XaEbmiqYVuI
 
 # Module 2: Model the data 
-Coming Soon
+Day-9: Get Ready For MS Power BI Exam |Module-2|Model the data| Design and implement a data model #Day-9 https://youtu.be/JFKEQaLLocM
+Coming Soon......
 # Module 3: Visualize and analyze the data
-Coming Soon
+Coming Soon.....
 # Module 4: Deploy and maintain assets
-Coming Soon
+Coming Soon......
