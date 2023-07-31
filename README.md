@@ -20,3 +20,27 @@ Power Bi training for PL 300 EXAM
         1.3.6. Merge and append queries
         1.3.7. Identify and create appropriate keys for relationships
         1.3.8. Configure data loading for queries
+# Link of YouTube Videos:
+# Module 1: Prepare the Data
+Day-1: Get Ready For Your MS Power BI Exam With This Free Training Course! #Day-1 https://youtu.be/SQ7aWdzcxSU
+
+Day-2: Get Ready For Your MS Power BI:300 Exam| Data Sources| Create First Chart| Dashboard #Day-2 https://youtu.be/cY_qm4LTT10
+
+Day-3: Get Ready For Your MS Power BI:300 Exam| Line Chart| Forecasting| Analytics in Chart #Day-3 https://youtu.be/6CKKXz3cUwg
+
+Day-4: Get Ready For Your MS Power BI Exam With This Free Training Course! |AI tools|Chat Comparison #Day-4 https://youtu.be/bE7P1csaCmI
+
+Day-5: Get Ready For Your MS Power BI Exam |Append & Merge| Star Schema| Data Preview| #Day-5 https://youtu.be/E_XXv3dE5xw
+
+Day-6: Get Ready For Your MS Power BI Exam |custom column| Star Schema| Relationships #Day-6 https://youtu.be/fMSE66L_p0s
+
+Day-7: Get Ready For Your MS Power BI Exam |Data Source Setting| Data Statistics| column properties#Day-7 https://youtu.be/PoqqJcTZZ-4
+
+Day-8: Get Ready For Your MS Power BI Exam |Reference & Duplicate queries| Keys| Power query editor #Day-8 https://youtu.be/XaEbmiqYVuI
+
+# Module 2: Model the data 
+Coming Soon
+# Module 3: Visualize and analyze the data
+Coming Soon
+# Module 4: Deploy and maintain assets
+Coming Soon
