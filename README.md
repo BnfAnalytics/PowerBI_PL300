@@ -62,6 +62,8 @@ Day-8: Get Ready For Your MS Power BI Exam |Reference & Duplicate queries| Keys|
 # Module 2: Model the data 
 Day-9: Get Ready For MS Power BI Exam |Module-2|Model the data| Design and implement a data model #Day-9 https://youtu.be/JFKEQaLLocM
 
+Day-10: Get Ready For PL 300 Power BI Exam |Module-2|Create model calculations by using DAX #Day-10 https://youtu.be/IL1Ct14E41g
+
 Coming Soon......
 # Module 3: Visualize and analyze the data
 Coming Soon.....
